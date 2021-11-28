@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Satyam Mishra</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱
 -  I’m currently learning **the language of 0s and 1s**
 
 - 📫 How to reach me **satyamsumit8750@gmail.com**
